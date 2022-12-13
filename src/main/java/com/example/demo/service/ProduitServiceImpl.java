@@ -5,7 +5,7 @@
 package com.example.demo.service;
 
 import com.example.demo.modele.Produit;
-import com.example.demo.modele.repository.ProduitRepository;
+import com.example.demo.repository.ProduitRepository;
 import java.util.List;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
